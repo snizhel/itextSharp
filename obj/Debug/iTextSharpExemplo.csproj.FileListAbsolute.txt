@@ -1,0 +1,12 @@
+C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csprojAssemblyReference.cache
+C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.Properties.Resources.resources
+C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csproj.GenerateResource.cache
+C:\Users\AIO\source\repos\iTextSharpExemplo\bin\Debug\iTextSharpExemplo.exe.config
+C:\Users\AIO\source\repos\iTextSharpExemplo\bin\Debug\iTextSharpExemplo.exe
+C:\Users\AIO\source\repos\iTextSharpExemplo\bin\Debug\iTextSharpExemplo.pdb
+C:\Users\AIO\source\repos\iTextSharpExemplo\bin\Debug\itextsharp.dll
+C:\Users\AIO\source\repos\iTextSharpExemplo\bin\Debug\itextsharp.xml
+C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.Form1.resources
+C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csproj.CopyComplete
+C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.exe
+C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.pdb
