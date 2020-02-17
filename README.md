@@ -3,4 +3,4 @@ Exemplo usando iTextSharp para leitura e criação de PDF.
 
 ![Imagem 1](https://github.com/NMDavi/iTextSharpExemplo/blob/master/paginaPDF1.png)
 
-![Imagem 1](https://github.com/NMDavi/iTextSharpExemplo/blob/master/iTextSharpExemplo.png)
+![Imagem 2](https://github.com/NMDavi/iTextSharpExemplo/blob/master/iTextSharpExemplo.png)
