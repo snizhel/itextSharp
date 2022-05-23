@@ -10,3 +10,17 @@ C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.Form1.re
 C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csproj.CopyComplete
 C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.exe
 C:\Users\AIO\source\repos\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.pdb
+D:\iTextSharpExemplo\bin\Debug\iTextSharpExemplo.exe.config
+D:\iTextSharpExemplo\bin\Debug\iTextSharpExemplo.exe
+D:\iTextSharpExemplo\bin\Debug\iTextSharpExemplo.pdb
+D:\iTextSharpExemplo\bin\Debug\itextsharp.dll
+D:\iTextSharpExemplo\bin\Debug\itextsharp.xml
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csproj.AssemblyReference.cache
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csproj.SuggestedBindingRedirects.cache
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.Form1.resources
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.Properties.Resources.resources
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csproj.GenerateResource.cache
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csproj.CoreCompileInputs.cache
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.csproj.CopyComplete
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.exe
+D:\iTextSharpExemplo\obj\Debug\iTextSharpExemplo.pdb

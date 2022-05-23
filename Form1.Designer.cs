@@ -57,7 +57,7 @@
             this.btnAbrir.Name = "btnAbrir";
             this.btnAbrir.Size = new System.Drawing.Size(75, 20);
             this.btnAbrir.TabIndex = 3;
-            this.btnAbrir.Text = "Abrir";
+            this.btnAbrir.Text = "Browse";
             this.btnAbrir.UseVisualStyleBackColor = true;
             this.btnAbrir.Click += new System.EventHandler(this.btnAbrir_Click);
             // 
@@ -67,7 +67,7 @@
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.Size = new System.Drawing.Size(99, 40);
             this.btnSalvar.TabIndex = 4;
-            this.btnSalvar.Text = "Salvar";
+            this.btnSalvar.Text = "Save";
             this.btnSalvar.UseVisualStyleBackColor = true;
             this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
             // 
@@ -83,7 +83,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "iTextSharp Exemplo";
+            this.Text = "iTextSharp Example";
             this.ResumeLayout(false);
             this.PerformLayout();
 
